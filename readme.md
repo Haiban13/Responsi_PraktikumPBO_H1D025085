@@ -2,6 +2,7 @@ project oop sistem smart home
 
 Nama : Haiban Aufar Irwanov
 Nim : H1D025085
+
 Tema: IOT
 
 
@@ -27,10 +28,13 @@ java -cp out/production/IOT\ Main
 
 contoh output
 menu awal
+
 ![Screenshot 2026-11-07 200603.png](Screenshot%202026-11-07%20200603.png)
 
 pilih perangkat lampu dan pilih opsi 1
+
 ![img_1.png](img_1.png)
 
 pilih opsi 4 untuk melihat detail lampu
+
 ![img_2.png](img_2.png)
