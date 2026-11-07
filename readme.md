@@ -19,10 +19,12 @@ Tema: IOT
 * **Encapsulation (Enkapsulasi):** Variabel instans bersifat `private` dan diakses/diubah secara aman melalui method *getter*, *setter*, atau method logika `command()`.
  
 cara compile melalui terminal
+
 javac -d out/production/IOT src/Main.java
 
 
 cara run melalui terminal
+
 java -cp out/production/IOT\ Main 
 
 
